@@ -1,0 +1,5 @@
+package com.dama.cerbero.entities.interfaces;
+
+public interface Customer {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 7 elements to &apos;damabe2&apos;&#x0A;- Original project: &apos;damabe&apos;&#x0A;- Destination element: &apos;damabe2&apos;&#x0A;- Original elements:&#x0A;     gradlew.bat&#x0A;     application.properties&#x0A;     settings.gradle&#x0A;     build.gradle&#x0A;     gradlew&#x0A;     resources&#x0A;     java" description="Copy elements" element1="gradlew.bat" element2="application.properties" element3="settings.gradle" element4="build.gradle" element5="gradlew" element6="resources" element7="java" files="5" flags="589830" folders="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1711061371229" target="/damabe2" units="0" version="1.0"/>
+</session>
