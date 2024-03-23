@@ -1,4 +1,0 @@
-package com.dama.cerbero.entities.interfaces;
-
-@Repository
-public interface CustomerRepository extends CrudRepository<Customer, Long> {}

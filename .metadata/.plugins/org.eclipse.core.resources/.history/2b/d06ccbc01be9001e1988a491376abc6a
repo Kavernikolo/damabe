@@ -1,0 +1,19 @@
+package com.dama.cerbero.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.stereotype.Service;
+
+import com.dama.cerbero.requests.Airdrop;
+
+@Service
+public class UserService {
+	
+	  @Autowired
+	  JdbcTemplate jdbcTemplate;
+	
+	public boolean save (Airdrop airdrop) {
+		
+	}
+
+}

@@ -13,7 +13,9 @@
 		<item value="org.eclipse.jgit.gpg.bc:6.9.0.202403050737-r"/>
 		<item value="org.eclipse.jgit.http.apache:6.9.0.202403050737-r"/>
 		<item value="org.eclipse.jgit.lfs:6.9.0.202403050737-r"/>
+		<item value="org.eclipse.jgit.pgm:6.9.0.202403050737-r"/>
 		<item value="org.eclipse.jgit.ssh.apache:6.9.0.202403050737-r"/>
+		<item value="org.eclipse.jgit.ssh.jsch:6.9.0.202403050737-r"/>
 		<item value="org.eclipse.jgit:6.9.0.202403050737-r"/>
 		<item value="org.eclipse.jst.common.fproj.enablement.jdt:3.29.0.v202308161955"/>
 		<item value="org.eclipse.justj.openjdk.hotspot.jre.full:17.0.10.v20240120-1143"/>

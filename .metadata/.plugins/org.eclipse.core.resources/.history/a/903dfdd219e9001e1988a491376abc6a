@@ -1,0 +1,5 @@
+package com.dama.cerbero.services;
+
+public class UserService {
+
+}

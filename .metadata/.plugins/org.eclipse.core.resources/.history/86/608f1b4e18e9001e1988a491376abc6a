@@ -1,0 +1,5 @@
+package com.dama.cerbero.requests;
+
+public class Airdrop {
+
+}
